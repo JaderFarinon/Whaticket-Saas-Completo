@@ -9,8 +9,6 @@
 <code>apt update && apt upgrade -y && apt install sudo git -y && sudo rm -rf Whaticket-Saas-Completo && sudo git clone https://github.com/JaderFarinon/Whaticket-Saas-Completo.git && cd Whaticket-Saas-Completo && sudo chmod +x ./automatizaai && ./automatizaai</code><br />
 &nbsp;</p>
 
-<h3>Whatsapp Suporte: +55 (51) 9957-9150<h3>
-
 <h3>Grupo de Suporte: https://encurtador.com.br/Q9Yl5<h3>
 
 <br/>
